@@ -1,0 +1,21 @@
+{
+  "name": "zen-headers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzaini30/zen-headers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mzaini30/zen-headers/issues"
+  },
+  "homepage": "https://github.com/mzaini30/zen-headers#readme",
+  "type": "module"
+}
